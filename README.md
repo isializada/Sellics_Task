@@ -12,5 +12,6 @@ Unit and Integration tests were implemented.
 
 ## Deployment
 After running the application, you can find keyword score by using this URL: 	
-[localhost:8888/estimate?keyword=YourKeyword]
+
+localhost:8888/estimate?keyword=**YourKeyword**
 
