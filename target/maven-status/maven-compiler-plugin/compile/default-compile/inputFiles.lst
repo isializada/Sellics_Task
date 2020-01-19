@@ -1,6 +1,6 @@
-/Users/ismayilalizada/Desktop/Projects/sellicstask/src/main/java/com/alizada/sellics/controller/ScoreController.java
-/Users/ismayilalizada/Desktop/Projects/sellicstask/src/main/java/com/alizada/sellics/util/Logger.java
-/Users/ismayilalizada/Desktop/Projects/sellicstask/src/main/java/com/alizada/sellics/config/Config.java
-/Users/ismayilalizada/Desktop/Projects/sellicstask/src/main/java/com/alizada/sellics/service/AmazonAutocompleteService.java
-/Users/ismayilalizada/Desktop/Projects/sellicstask/src/main/java/com/alizada/sellics/Application.java
-/Users/ismayilalizada/Desktop/Projects/sellicstask/src/main/java/com/alizada/sellics/model/SearchValuesEstimation.java
+/Users/ismayilalizada/Desktop/Projects/Sellics_Task/src/main/java/com/alizada/sellics/Application.java
+/Users/ismayilalizada/Desktop/Projects/Sellics_Task/src/main/java/com/alizada/sellics/model/SearchValuesEstimation.java
+/Users/ismayilalizada/Desktop/Projects/Sellics_Task/src/main/java/com/alizada/sellics/controller/ScoreController.java
+/Users/ismayilalizada/Desktop/Projects/Sellics_Task/src/main/java/com/alizada/sellics/util/Logger.java
+/Users/ismayilalizada/Desktop/Projects/Sellics_Task/src/main/java/com/alizada/sellics/service/AmazonAutocompleteService.java
+/Users/ismayilalizada/Desktop/Projects/Sellics_Task/src/main/java/com/alizada/sellics/config/Config.java

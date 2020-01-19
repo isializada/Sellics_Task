@@ -8,7 +8,7 @@ public class SearchValuesEstimation {
         return keyword;
     }
 
-    public void setKeyword(String keyword) {
+    public void setKeyword(final String keyword) {
         this.keyword = keyword;
     }
 
@@ -16,7 +16,7 @@ public class SearchValuesEstimation {
         return score;
     }
 
-    public void setScore(Integer score) {
+    public void setScore(final Integer score) {
         this.score = score;
     }
 }
